@@ -64,7 +64,7 @@
 ## 🏆 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalrayar&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalrayar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -72,5 +72,5 @@
 ## 👀 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Prajwalrayar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
