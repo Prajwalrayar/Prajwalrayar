@@ -2,7 +2,7 @@
 <h3 align="center">Java Full Stack Developer | Spring Boot | React</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Enthusiast;React+Learner;Building+Smart+POS+System" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1F4E79&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Spring+Boot+Specialist;React+Developer;Building+Enterprise+POS+System" />
 </p>
 
 ---
